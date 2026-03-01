@@ -144,9 +144,26 @@ Open your browser at **http://localhost:3000** 🎉
 
 ---
 
-## 👥 Team
+## 👥 Team QueryCraft
 
-**Team QueryCraft** — Hack-N-Go with MongoDB 2026
+<table>
+  <tr>
+    <td align="center">
+      <strong>Manav</strong><br/>
+      <a href="https://github.com/itzMANAV07">
+        <img src="https://img.shields.io/badge/GitHub-itzMANAV07-black?style=flat&logo=github"/>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/manav-476733385/">
+        <img src="https://img.shields.io/badge/LinkedIn-Manav-blue?style=flat&logo=linkedin"/>
+      </a>
+      <br/>
+      <a href="mailto:myself.manav24@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-myself.manav24@gmail.com-red?style=flat&logo=gmail"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
